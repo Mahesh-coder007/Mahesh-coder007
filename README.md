@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **...mastering ReactJS, solving algorithmic problems, understanding machine learning concepts, etc.**
 
-- 👨‍💻 All of my projects are available at [](https://mahesh-coder007.github.io/M.Personal-PortFolio/)
+- 👨‍💻 All of my projects are available at [https://mahesh-coder007.github.io/M.Personal-PortFolio/](https://mahesh-coder007.github.io/M.Personal-PortFolio/)
 
 - 😄 Pronouns: [... He/Him](... He/Him)
 
