@@ -65,10 +65,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Mahesh-coder007&icon=7&color=0" alt="Visitor Count"/>
-</p>
-
----
-
 <p align="center">✨ *Proudly crafted with ❤️ by <a href="https://github.com/Mahesh-coder007">Mahesh Dongare</a>* ✨</p>
